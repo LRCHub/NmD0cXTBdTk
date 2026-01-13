@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "COME and GO",
+  "base_artist": "Straightener",
+  "createdAt": "2026-01-13T22:02:08.061698Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Come and Go",
+      "artist": "Reamonn",
+      "has_synced": false,
+      "path": "select/01_Come_and_Go_Reamonn.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "World Seems to Come and Go",
+      "artist": "Holly Cole",
+      "has_synced": false,
+      "path": "select/02_World_Seems_to_Come_and_Go_Holly_Cole.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dreams Come and Go",
+      "artist": "Colin James",
+      "has_synced": false,
+      "path": "select/03_Dreams_Come_and_Go_Colin_James.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Come and Go Blues",
+      "artist": "The Allman Brothers Band",
+      "has_synced": true,
+      "path": "select/04_Come_and_Go_Blues_The_Allman_Brothers_Band.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Come And Go Blues",
+      "artist": "Allman Brothers Band",
+      "has_synced": true,
+      "path": "select/05_Come_And_Go_Blues_Allman_Brothers_Band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come And Go With Me",
+      "artist": "Peter, Paul and Mary",
+      "has_synced": false,
+      "path": "select/06_Come_And_Go_With_Me_Peter,_Paul_and_Mary.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Come and Go With Me",
+      "artist": "Peter, Paul & Mary",
+      "has_synced": false,
+      "path": "select/07_Come_and_Go_With_Me_Peter,_Paul_&_Mary.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come and Go Blues",
+      "artist": "The Allman Brothers Band",
+      "has_synced": false,
+      "path": "select/08_Come_and_Go_Blues_The_Allman_Brothers_Band.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Easy Come and Go",
+      "artist": "Joker, T.N.S & Gob",
+      "has_synced": false,
+      "path": "select/09_Easy_Come_and_Go_Joker,_T.N.S_&_Gob.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Easy Come And Go",
+      "artist": "Joker",
+      "has_synced": false,
+      "path": "select/10_Easy_Come_And_Go_Joker.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Come and Go Blues (Live At Watkins Glen/1973)",
+      "artist": "The Allman Brothers Band",
+      "has_synced": true,
+      "path": "select/11_Come_and_Go_Blues_(Live_At_Watkins_Glen_1973)_The_Allman_Brothers_Band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Come And Go Blues - Live At Watkins Glen/1973",
+      "artist": "The Allman Brothers Band",
+      "has_synced": false,
+      "path": "select/12_Come_And_Go_Blues_-_Live_At_Watkins_Glen_1973_The_Allman_Brothers_Band.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Days Come and Go",
+      "artist": "Lil Uzi Vert",
+      "has_synced": false,
+      "path": "select/13_Days_Come_and_Go_Lil_Uzi_Vert.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Come And Go",
+      "artist": "Y'akoto",
+      "has_synced": false,
+      "path": "select/14_Come_And_Go_Y'akoto.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Come And Go",
+      "artist": "Turin Brakes",
+      "has_synced": false,
+      "path": "select/15_Come_And_Go_Turin_Brakes.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Come And Go Blues",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": false,
+      "path": "select/16_Come_And_Go_Blues_Hank_Williams,_Jr..txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Come and Go Blues",
+      "artist": "The Gregg Allman Band",
+      "has_synced": true,
+      "path": "select/17_Come_and_Go_Blues_The_Gregg_Allman_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "COME and GO",
+      "artist": "ストレイテナー",
+      "has_synced": false,
+      "path": "select/pl_01_COME_and_GO_ストレイテナー.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "COME and GO",
+      "artist": "ストレイテナー",
+      "has_synced": false,
+      "path": "select/pl_02_COME_and_GO_ストレイテナー.txt"
+    }
+  ]
+}
